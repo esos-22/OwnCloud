@@ -14,7 +14,7 @@ Due to the variety of servies and suppliers to them, this project arises as our 
 - Object Storage (Eliseo Sosa/ Nicolás Flores)
 - Authentication (Esaú Lozano)
 - Credential Management (Eliseo Sosa)
-- Event/Message Queues (Andrés Hernández)
+- [Message Broker/queue](MessageQueue)  (Andrés Hernández)
 - [Proxying](Dependences/Proxying/) (Esaú Cárdenas)
 
 ### All in one using docker compose coming soon!
