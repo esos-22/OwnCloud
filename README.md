@@ -1,4 +1,4 @@
-# Collect Services to use in your personal 
+# Collect Services to use in your personal cloud
 ![ReferenceImage](/images/☁ Cloud ☁.png)
 
 ## Instructions
