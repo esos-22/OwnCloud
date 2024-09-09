@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Collect Services to use in your personal 
 ![ReferenceImage](/images/☁ Cloud ☁.png)
 
@@ -9,21 +9,8 @@
 
 ## **Services (AWS && (Azure || GCP), Open)**
 
-#### Dependences 
-- Monitoring (Esaú Cardenas)
-- Communication (Esaú Lozano)
-- Serverless (Andrés Hernández)
-- Database (Nicolás Florés)
-- Object Storage (Eliseo Sosa/ Nicolás Flores)
-- Authentication (Esaú Lozano)
-- Credential Management (Eliseo Sosa)
-- Event/Message Queues (Andrés Hernández)
-- [Proxying](Dependences/Proxying/) (Esaú Cárdenas)
--
-- 
-=======
-# Set up your own cloud 
-![ReferenceImage](/images/☁ Cloud ☁.png)
+
+
 
 ### This is a group project to teach how to set up your own cloud services using Docker
 
@@ -31,7 +18,7 @@ Due to the variety of servies and suppliers to them, this project arises as our 
 
 ### **Services**
  
-- Monitoring (Esaú Cardenas)
+- [Monitoring](Dependendes/Monitoring) (Esaú Cardenas)
 - Communication (Esaú Lozano)
 - Serverless (Andrés Hernández)
 - [DataBase](Dependences/Databases%20&%20Storage/) (Nicolás Florés)
