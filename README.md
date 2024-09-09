@@ -1,14 +1,12 @@
-# Collect Services to use in your personal cloud
+# Set up your own cloud 
 ![ReferenceImage](/images/☁ Cloud ☁.png)
 
-## Instructions
-**Collect: 2 options per service, Documentation Link and DockerHub Link**
+### This is a group project to teach how to set up your own cloud services using Docker
 
-*For each get 1 (AWS && 1 (Azure || GCP),Open)*
+Due to the variety of servies and suppliers to them, this project arises as our option to be our own service providers, and stop beeing dependent of private software, making use of free open source software 
 
-## **Services (AWS && (Azure || GCP), Open)**
-
-#### Dependences 
+### **Services**
+ 
 - Monitoring (Esaú Cardenas)
 - Communication (Esaú Lozano)
 - Serverless (Andrés Hernández)
@@ -18,4 +16,5 @@
 - Credential Management (Eliseo Sosa)
 - Event/Message Queues (Andrés Hernández)
 - [Proxying](Dependences/Proxying/) (Esaú Cárdenas)
--
+
+### All in one using docker compose coming soon!
